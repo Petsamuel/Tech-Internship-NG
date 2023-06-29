@@ -27,6 +27,7 @@
 | Sterling Bank Graduate Trainee Program                        | Varies       | Nationwide   | Yes     | [Apply Now](https://sterling.ng/graduatetrainee)                             |
 | SystemSpecs Internship Program                                | Varies       | Lagos        | Yes     | [Apply Now](https://www.systemspecs.com.ng)                                  |
 | Wema Bank ALAT Student Ambassador Program                     | Varies       | Nationwide   | Yes     | [Apply Now](https://www.alat.ng/ambassadors)                                 |
+| Zuri Internship           | Varies   | Online       |no| [Visit Website](Https://internship.zuri.team)  |
 
 > Please note that the information provided here is subject to change. Make sure to visit the official websites of each internship program for the latest updates and details.
 
@@ -44,5 +45,6 @@
 | NIIT Nigeria              | Varies   | Lagos, Abuja | [Visit Website](https://www.niit.com)          |
 | Skill-Up Africa           | Varies   | Online       | [Visit Website](https://www.skillupafrica.com) |
 | TechPoint Build           | Varies   | Lagos        | [Visit Website](https://techpoint.africa)      |
+| Zuri Internship           | Varies   | Online       | [Visit Website](Https://internship.zuri.team)  |
 
 > Please note that the information provided here is subject to change. Make sure to visit the official websites of each internship program for the latest updates and details.
