@@ -13,7 +13,7 @@
 
 | Internship Program                                            | Duration     | Location     | Stipend | Registration                                                                 |
 | ------------------------------------------------------------- | ------------ | ------------ | ------- | ---------------------------------------------------------------------------- |
-| Access Bank Nigeria Graduate Internship Program               | 3-6 months   | Lagos        | Yes     | [Apply Now](https://www.accessbankplc.com)                                   |
+| Access Bank Nigeria Graduate Internship Program               | 3-6 months   | Lagos        | Yes     | [Apply Now](https://www.accessbankplc.com/careers/job-opportunities)                                   |
 | Andela Nigeria Internship Program                             | 3 months     | Lagos        | Yes     | [Apply Now](https://andela.com/careers)                                      |
 | Flutterwave Internship Program                                | 3 - 6 months | Lagos        | Yes     | [Apply Now](https://flutterwave.com/careers)                                 |
 | Google Nigeria Student Training in Engineering Program (STEP) | 12 weeks     | Lagos        | Yes     | [Apply Now](https://buildyourfuture.withgoogle.com/programs/step/)           |
