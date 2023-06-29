@@ -11,18 +11,22 @@
 
 ## List of Internship Programs
 
-| Internship Program                                            | Period     | Location        | Stipend | Registration                                   |
-| ------------------------------------------------------------- | ---------- | --------------- | ------- | ---------------------------------------------- |
-| Flutterwave Internship Program                                | 3 months   | Lagos           | Yes     | [Apply Now](https://www.flutterwave.com)       |
-| Andela Nigeria Internship Program                             | 6 months   | Multiple cities | Yes     | [Apply Now](https://www.andela.com)            |
-| Microsoft Nigeria Internship Program                          | 3-6 months | Lagos           | Yes     | [Apply Now](https://www.microsoft.com)         |
-| Interswitch Internship Program                                | 3-6 months | Lagos           | Yes     | [Apply Now](https://www.interswitch.com)       |
-| PwC Nigeria Graduate Internship Program                       | 3-6 months | Lagos, Abuja    | Yes     | [Apply Now](https://www.pwc.com)               |
-| KPMG Nigeria Internship Program                               | 3-6 months | Lagos, Abuja    | Yes     | [Apply Now](https://www.kpmg.com)              |
-| Google Nigeria Student Training in Engineering Program (STEP) | 3 months   | Lagos           | Yes     | [Apply Now](https://www.google.com)            |
-| Nigerian Breweries Graduate Management Development Scheme     | 1 year     | Lagos           | Yes     | [Apply Now](https://www.nigerianbreweries.com) |
-| Access Bank Nigeria Graduate Internship Program               | 3-6 months | Lagos           | Yes     | [Apply Now](https://www.accessbankplc.com)     |
-| MTN Nigeria Graduate Development Program                      | 1 year     | Lagos, Abuja    | Yes     | [Apply Now](https://www.mtnonline.com)         |
+| Internship Program                                            | Duration     | Location     | Stipend | Registration                                                                 |
+| ------------------------------------------------------------- | ------------ | ------------ | ------- | ---------------------------------------------------------------------------- |
+| Access Bank Nigeria Graduate Internship Program               | 3-6 months   | Lagos        | Yes     | [Apply Now](https://www.accessbankplc.com)                                   |
+| Andela Nigeria Internship Program                             | 3 months     | Lagos        | Yes     | [Apply Now](https://andela.com/careers)                                      |
+| Flutterwave Internship Program                                | 3 - 6 months | Lagos        | Yes     | [Apply Now](https://flutterwave.com/careers)                                 |
+| Google Nigeria Student Training in Engineering Program (STEP) | 12 weeks     | Lagos        | Yes     | [Apply Now](https://buildyourfuture.withgoogle.com/programs/step/)           |
+| Interswitch Internship Program                                | Varies       | Lagos        | Yes     | [Apply Now](https://www.interswitchgroup.com/careers)                        |
+| KPMG Nigeria Internship Program                               | 3-6 months   | Lagos, Abuja | Yes     | [Apply Now](https://www.kpmg.com)                                            |
+| Microsoft Interns4Afrika Program                              | Varies       | Nationwide   | Yes     | [Apply Now](https://www.microsoft.com/en-af/Interns4Afrika)                  |
+| MTN Nigeria Graduate Development Program                      | 1 year       | Lagos, Abuja | Yes     | [Apply Now](https://www.mtnonline.com)                                       |
+| Nigerian Breweries Graduate Management Development Scheme     | 1 year       | Lagos        | Yes     | [Apply Now](https://www.nigerianbreweries.com)                               |
+| Paystack Internship Program                                   | 6 months     | Lagos        | Yes     | [Apply Now](https://paystack.com/careers)                                    |
+| PwC Nigeria Internship Program                                | Varies       | Lagos, Abuja | Yes     | [Apply Now](https://www.pwc.com/ng/en/careers/internship-opportunities.html) |
+| Sterling Bank Graduate Trainee Program                        | Varies       | Nationwide   | Yes     | [Apply Now](https://sterling.ng/graduatetrainee)                             |
+| SystemSpecs Internship Program                                | Varies       | Lagos        | Yes     | [Apply Now](https://www.systemspecs.com.ng)                                  |
+| Wema Bank ALAT Student Ambassador Program                     | Varies       | Nationwide   | Yes     | [Apply Now](https://www.alat.ng/ambassadors)                                 |
 
 > Please note that the information provided here is subject to change. Make sure to visit the official websites of each internship program for the latest updates and details.
 
