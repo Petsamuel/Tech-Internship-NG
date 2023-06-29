@@ -9,5 +9,36 @@
 
 ---
 
-<p align="center"> This repository serves as a centralized platform where technology enthusiasts can find a wide range of internship opportunities and training initiatives offered by leading companies, startups, and educational institutions in Nigeria.
-</p>
+## List of Internship Programs
+
+| Internship Program                                            | Period     | Location        | Stipend | Registration Link                              |
+| ------------------------------------------------------------- | ---------- | --------------- | ------- | ---------------------------------------------- |
+| Flutterwave Internship Program                                | 3 months   | Lagos           | Yes     | [Apply Now](https://www.flutterwave.com)       |
+| Andela Nigeria Internship Program                             | 6 months   | Multiple cities | Yes     | [Apply Now](https://www.andela.com)            |
+| Microsoft Nigeria Internship Program                          | 3-6 months | Lagos           | Yes     | [Apply Now](https://www.microsoft.com)         |
+| Interswitch Internship Program                                | 3-6 months | Lagos           | Yes     | [Apply Now](https://www.interswitch.com)       |
+| PwC Nigeria Graduate Internship Program                       | 3-6 months | Lagos, Abuja    | Yes     | [Apply Now](https://www.pwc.com)               |
+| KPMG Nigeria Internship Program                               | 3-6 months | Lagos, Abuja    | Yes     | [Apply Now](https://www.kpmg.com)              |
+| Google Nigeria Student Training in Engineering Program (STEP) | 3 months   | Lagos           | Yes     | [Apply Now](https://www.google.com)            |
+| Nigerian Breweries Graduate Management Development Scheme     | 1 year     | Lagos           | Yes     | [Apply Now](https://www.nigerianbreweries.com) |
+| Access Bank Nigeria Graduate Internship Program               | 3-6 months | Lagos           | Yes     | [Apply Now](https://www.accessbankplc.com)     |
+| MTN Nigeria Graduate Development Program                      | 1 year     | Lagos, Abuja    | Yes     | [Apply Now](https://www.mtnonline.com)         |
+
+> Please note that the information provided here is subject to change. Make sure to visit the official websites of each internship program for the latest updates and details.
+
+## List of IT Training Programs
+
+| Training Program          | Duration | Location     | Website                                        |
+| ------------------------- | -------- | ------------ | ---------------------------------------------- |
+| Andela Learning Community | Varies   | Online       | [Visit Website](https://andela.com/alc)        |
+| Aptech Nigeria            | Varies   | Lagos, Abuja | [Visit Website](https://www.aptech-ng.com)     |
+| CodeLab Nigeria           | Varies   | Lagos, Abuja | [Visit Website](https://www.codelab.com.ng)    |
+| DevCareer                 | Varies   | Online       | [Visit Website](https://devcareer.io)          |
+| HiiT Nigeria              | Varies   | Lagos, Abuja | [Visit Website](https://www.hiitplc.com)       |
+| Ingressive for Good       | Varies   | Lagos        | [Visit Website](https://ingressive.org)        |
+| New Horizons Nigeria      | Varies   | Lagos, Abuja | [Visit Website](https://www.newhorizons.com)   |
+| NIIT Nigeria              | Varies   | Lagos, Abuja | [Visit Website](https://www.niit.com)          |
+| Skill-Up Africa           | Varies   | Online       | [Visit Website](https://www.skillupafrica.com) |
+| TechPoint Build           | Varies   | Lagos        | [Visit Website](https://techpoint.africa)      |
+
+> Please note that the information provided here is subject to change. Make sure to visit the official websites of each internship program for the latest updates and details.
