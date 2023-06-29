@@ -28,17 +28,17 @@
 
 ## List of IT Training Programs
 
-| Training Program          | Duration | Location     | Website                                        | Status  |
-| ------------------------- | -------- | ------------ | ---------------------------------------------- | ------- |
-| Andela Learning Community | Varies   | Online       | [Visit Website](https://andela.com/alc)        | Ongoing |
-| Aptech Nigeria            | Varies   | Lagos, Abuja | [Visit Website](https://www.aptech-ng.com)     | Ongoing |
-| CodeLab Nigeria           | Varies   | Lagos, Abuja | [Visit Website](https://www.codelab.com.ng)    | Ongoing |
-| DevCareer                 | Varies   | Online       | [Visit Website](https://devcareer.io)          | Ongoing |
-| HiiT Nigeria              | Varies   | Lagos, Abuja | [Visit Website](https://www.hiitplc.com)       | Ongoing |
-| Ingressive for Good       | Varies   | Lagos        | [Visit Website](https://ingressive.org)        | Ended   |
-| New Horizons Nigeria      | Varies   | Lagos, Abuja | [Visit Website](https://www.newhorizons.com)   | Ongoing |
-| NIIT Nigeria              | Varies   | Lagos, Abuja | [Visit Website](https://www.niit.com)          | Ongoing |
-| Skill-Up Africa           | Varies   | Online       | [Visit Website](https://www.skillupafrica.com) | Ongoing |
-| TechPoint Build           | Varies   | Lagos        | [Visit Website](https://techpoint.africa)      | Ended   |
+| Training Program          | Duration | Location     | Website                                        | Status |
+| ------------------------- | -------- | ------------ | ---------------------------------------------- | ------ |
+| Andela Learning Community | Varies   | Online       | [Visit Website](https://andela.com/alc)        |
+| Aptech Nigeria            | Varies   | Lagos, Abuja | [Visit Website](https://www.aptech-ng.com)     |
+| CodeLab Nigeria           | Varies   | Lagos, Abuja | [Visit Website](https://www.codelab.com.ng)    |
+| DevCareer                 | Varies   | Online       | [Visit Website](https://devcareer.io)          |
+| HiiT Nigeria              | Varies   | Lagos, Abuja | [Visit Website](https://www.hiitplc.com)       |
+| Ingressive for Good       | Varies   | Lagos        | [Visit Website](https://ingressive.org)        |
+| New Horizons Nigeria      | Varies   | Lagos, Abuja | [Visit Website](https://www.newhorizons.com)   |
+| NIIT Nigeria              | Varies   | Lagos, Abuja | [Visit Website](https://www.niit.com)          |
+| Skill-Up Africa           | Varies   | Online       | [Visit Website](https://www.skillupafrica.com) |
+| TechPoint Build           | Varies   | Lagos        | [Visit Website](https://techpoint.africa)      |
 
 > Please note that the information provided here is subject to change. Make sure to visit the official websites of each internship program for the latest updates and details.
