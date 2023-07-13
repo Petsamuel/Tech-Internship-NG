@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Status](https://img.shields.io/badge/status-active-success.svg)](https://github.com/Petsamuel/TechNigeria-InternshipsHub) [![GitHub Issues](https://img.shields.io/github/issues/Petsamuel/TechNigeria-InternshipsHub.svg)](https://github.com/TechNigeria-InternshipsHub) [![GitHub Pull Requests](https://img.shields.io/github/issues-pr/kylelobo/The-Documentation-Compendium.svg)](https://github.com/kylelobo/The-Documentation-Compendium/pulls)
+[![Status](https://img.shields.io/badge/status-active-success.svg)](https://github.com/Petsamuel/TechNigeria-InternshipsHub) [![GitHub Issues](https://img.shields.io/github/issues/Petsamuel/TechNigeria-InternshipsHub.svg)](https://github.com/TechNigeria-InternshipsHub) [![GitHub Pull Requests](https://img.shields.io/github/issues-pr/kylelobo/The-Documentation-Compendium.svg)](https://github.com/kylelobo/The-Documentation-Compendium/pulls) [![GitHub Super-Linter](https://github.com/petsamuel/Tech-Internship-NG/actions/workflows/superlinter.yml/badge.svg)](https://github.com/marketplace/actions/super-linter)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](/LICENSE)
 
 </div>
