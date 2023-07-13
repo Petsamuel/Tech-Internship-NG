@@ -19,12 +19,12 @@
 | Google Nigeria Student Training in Engineering Program (STEP) | 12 weeks     | Lagos        | Yes     | [Apply Now](https://buildyourfuture.withgoogle.com/programs/step/)           |
 | Interswitch Internship Program                                | Varies       | Lagos        | Yes     | [Apply Now](https://www.interswitchgroup.com/careers)                        |
 | KPMG Nigeria Internship Program                               | 3-6 months   | Lagos, Abuja | Yes     | [Apply Now](https://www.kpmg.com)                                            |
-| Microsoft Interns4Afrika Program                              | Varies       | Nationwide   | Yes     | [Apply Now](https://www.microsoft.com/en-af/Interns4Afrika)                  |
+| Microsoft Interns4Afrika Program                              | Varies       | Nation wide   | Yes     | [Apply Now](https://www.microsoft.com/en-af/Interns4Afrika)                  |
 | MTN Nigeria Graduate Development Program                      | 1 year       | Lagos, Abuja | Yes     | [Apply Now](https://group.mtn.com/careers/)                                       |
 | Nigerian Breweries Graduate Management Development Scheme     | 1 year       | Lagos        | Yes     | [Apply Now](https://www.nigerianbreweries.com)                               |
 | Paystack Internship Program                                   | 6 months     | Lagos        | Yes     | [Apply Now](https://paystack.com/careers)                                    |
 | PwC Nigeria Internship Program                                | Varies       | Lagos, Abuja | Yes     | [Apply Now](https://www.pwc.com/ng/en/careers/internship-opportunities.html) |
-| Sterling Bank Graduate Trainee Program                        | Varies       | Nationwide   | Yes     | [Apply Now](https://sterling.ng/graduatetrainee)                             |
+| Sterling Bank Graduate Trainee Program                        | Varies       | Nation wide   | Yes     | [Apply Now](https://sterling.ng/graduatetrainee)                             |
 | SystemSpecs Internship Program                                | Varies       | Lagos        | Yes     | [Apply Now](https://systemspecs.com.ng/the-academy/)                                  |
 | Wema Bank ALAT Student Ambassador Program                     | Varies       | Nationwide   | Yes     | [Apply Now](https://www.alat.ng/ambassadors)                                 |
 | Zuri Internship           | Varies   | Online       |no| [Visit Website](Https://internship.zuri.team)  |
