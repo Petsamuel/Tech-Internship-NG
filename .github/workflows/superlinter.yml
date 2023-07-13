@@ -11,15 +11,16 @@ name: Lint Code Base
 #############################
 on:
   push:
-    branches-ignore: [master, main]
-    # Remove the line above to run when pushing to master
+    branches:
+      - main
   pull_request:
-    branches: [master, main]
+  merge_group:
 
 ###############
 # Set the Job #
 ###############
 jobs:
+
   build:
     # Name the Job
     name: Lint Code Base
@@ -41,8 +42,8 @@ jobs:
       ##########################
       # Checkout the code base #
       ##########################
-      - name: Checkout Code
-        uses: actions/checkout@v3
+      - name: Super-Linter
+        uses: super-linter/super-linter@v5.1.1
         with:
           # Full git history is needed to get a proper
           # list of changed files within `super-linter`
@@ -51,9 +52,9 @@ jobs:
       ################################
       # Run Linter against code base #
       ################################
-      - name: Lint Code Base
-        uses: super-linter/super-linter@v5
+      - name: Super-Linter
+        uses: super-linter/super-linter@v5.1.1
         env:
-          VALIDATE_ALL_CODEBASE: false
-          DEFAULT_BRANCH: master
+          VALIDATE_ALL_CODEBASE: true
+          DEFAULT_BRANCH: main
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
