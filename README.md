@@ -46,5 +46,6 @@
 | Skill-Up Africa           | Varies   | Online       | [Visit Website](https://www.skillupafrica.com) |
 | TechPoint Build           | Varies   | Lagos        | [Visit Website](https://techpoint.africa)      |
 | Zuri Internship           | Varies   | Online       | [Visit Website](Https://internship.zuri.team)  |
+| AltSchool Africa          | 12months | Online       | [Visit Website](https://altschoolafrica.com)   |
 
 > Please note that the information provided here is subject to change. Make sure to visit the official websites of each internship program for the latest updates and details.
