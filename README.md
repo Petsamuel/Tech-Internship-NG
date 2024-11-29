@@ -1,5 +1,5 @@
-<h3 align="center">Tech Nigeria-Internships Hub</h3>
----
+<h3 align="center">Tech Nigeria-Internships Hub </h3>
+
 
 ## List of Internship Programs
 
@@ -23,6 +23,7 @@
 
 > Please note that the information provided here is subject to change. Make sure to visit the official websites of each internship program for the latest updates and details.
 
+
 ## List of IT Training Programs
 
 | Training Program          | Duration | Location     | Website                                        | Status |
@@ -41,3 +42,18 @@
 | AltSchool Africa          | 12months | Online       | [Visit Website](https://altschoolafrica.com)   |
 
 > Please note that the information provided here is subject to change. Make sure to visit the official websites of each internship program for the latest updates and details.
+
+### Links
+
+* [View this page on GitHub](https://github.com/Petsamuel/Tech-Internship-NG)
+* [Edit this page](https://github.com/Petsamuel/Tech-Internship-NG/edit/main/README.md)
+
+### Contributing
+
+Contributions are welcome! Please feel free to fork and submit a pull request.
+
+### License
+
+This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
+
+<h6 align="center">Copyright (c) 2024 Bieefilled. All rights reserved.</h6>
