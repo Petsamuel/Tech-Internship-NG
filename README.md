@@ -1,4 +1,4 @@
-<h3 align="center">Tech Nigeria-Internships Hub</h3>
+<h3 align="center">Tech Nigeria-Internships Hub</h3> 
 
 <div align="center">
 
