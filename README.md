@@ -19,7 +19,7 @@
 | Sterling Bank Graduate Trainee Program                        | Varies       | Nationwide   | Yes     | [Apply Now](https://sterling.ng/graduatetrainee)                             |
 | SystemSpecs Internship Program                                | Varies       | Lagos        | Yes     | [Apply Now](https://systemspecs.com.ng/the-academy/)                         |
 | Wema Bank ALAT Student Ambassador Program                     | Varies       | Nationwide   | Yes     | [Apply Now](https://www.alat.ng/ambassadors)                                 |
-| Summer of Bitcoin 2025                                        | Varies       | Online       | Yes     | [Apply Now](https://summerofbitcoin.org)                                     | Feb 15 
+| Summer of Bitcoin 2025                                        | 5 months     | Online       | Yes     | [Apply Now](https://summerofbitcoin.org)                                     | Feb 15 
 
 
 > Please note that the information provided here is subject to change. Make sure to visit the official websites of each internship program for the latest updates and details.
