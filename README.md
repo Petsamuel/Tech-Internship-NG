@@ -3,8 +3,8 @@
 
 ## List of Internship Programs
 
-| Internship Program                                            | Duration     | Location     | Stipend | Registration                                                                 | Status            |
-| ------------------------------------------------------------- | ------------ | ------------ | ------- | ---------------------------------------------------------------------------- | ------------------
+| Internship Program                                            | Duration     | Location     | Stipend | Registration                                                                 | Status/Deadline  |
+| ------------------------------------------------------------- | ------------ | ------------ | ------- | ---------------------------------------------------------------------------- | ---------------- |
 | Access Bank Nigeria Graduate Internship Program               | 3-6 months   | Lagos        | Yes     | [Apply Now](https://www.accessbankplc.com/careers/job-opportunities)         |                    
 | Andela Nigeria Internship Program                             | 3 months     | Lagos        | Yes     | [Apply Now](https://andela.com/careers)                                      |
 | Flutterwave Internship Program                                | 3 - 6 months | Lagos        | Yes     | [Apply Now](https://flutterwave.com/careers)                                 |
@@ -19,8 +19,7 @@
 | Sterling Bank Graduate Trainee Program                        | Varies       | Nationwide   | Yes     | [Apply Now](https://sterling.ng/graduatetrainee)                             |
 | SystemSpecs Internship Program                                | Varies       | Lagos        | Yes     | [Apply Now](https://systemspecs.com.ng/the-academy/)                         |
 | Wema Bank ALAT Student Ambassador Program                     | Varies       | Nationwide   | Yes     | [Apply Now](https://www.alat.ng/ambassadors)                                 |
-| Zuri Internship                                               | Varies       | Online       | No      | [Apply Now](https://internship.zuri.team)                                    |
-| HNG Internship                                                | Varies       | Online       | No      | [Apply Now](https://hng.tech/checkout/hng-internship)                        | Ongoing 
+| Summer of Bitcoin 2025                                        | 5 months     | Online       | Yes     | [Apply Now](https://summerofbitcoin.org)                                     | Feb 15 
 
 
 > Please note that the information provided here is subject to change. Make sure to visit the official websites of each internship program for the latest updates and details.
